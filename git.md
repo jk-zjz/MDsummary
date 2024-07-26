@@ -1,6 +1,18 @@
 ## 第一次提交
+初始化git
+git init
 
+添加文件
+git add .
 
+提交缓存
+git commit -m "初次"
+
+切换提交仓库
+git remote add origin git@github.com:jk-zjz/MDsummary.git
+
+提交
+git push -u origin master
 ## 二次提交
 ```
 确保分支
